@@ -1,0 +1,22 @@
+.formBox {
+    background-color: #eaf2fa;
+    padding: 20px 0 2px 0;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.posClose {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    cursor: pointer;
+    z-index: 999;
+}
+.constont{
+    line-height: 20px;
+}
+
+.constont img{
+    width:80%;
+}

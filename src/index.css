@@ -1,0 +1,59 @@
+html, body, :global(#root) {
+  height: 100%;
+}
+
+/*menu*/
+:global(.ant-menu-item-selected) {
+  background-color: #35424d !important;
+}
+
+/*modal*/
+:global(.ant-modal-header) {
+    background: #35424d !important;
+}
+
+:global(.ant-modal-body) {
+    background: #fafafa !important;
+}
+
+:global(.ant-modal-title) {
+    color: #d9dbdd !important;
+}
+
+:global(.ant-modal-close) {
+    color: #d9dbdd !important;
+}
+
+/*box-model-css*/
+:global(.mg-b20) {
+  margin-bottom: 20px;
+}
+
+:global(.mg-t20) {
+  margin-top: 20px;
+}
+
+:global(.mg-l20) {
+  margin-left: 20px;
+}
+
+:global(.mg-r20) {
+  margin-right: 20px;
+}
+
+:global(.mg-t-b-20) {
+  margin: 20px 0;
+}
+
+:global(.mg-b10) {
+  margin-bottom: 10px;
+}
+
+:global(.pd-b20) {
+  padding-bottom: 20px;
+}
+
+:global(.bd-b1) {
+  border-bottom: 1px solid #f3f3f3;
+}
+
